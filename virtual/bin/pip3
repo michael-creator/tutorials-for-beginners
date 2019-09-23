@@ -1,4 +1,4 @@
-#!/home/michael/Documents/blogger/blog-post/virtual/bin/python
+#!/home/michael/Documents/blogger/blog-post/app/virtual/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

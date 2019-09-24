@@ -8,7 +8,8 @@ app lets you get latest tutorials and articles readly for you to learn flask wit
 app lets you get latest tutorials and articles readly for you to learn flask with minimal and simple methods as outlined here below.
 
 # Setup/Installation Requirements
-
+$
+$
 ## Technologies Used
 python
 flask
